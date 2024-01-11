@@ -17,8 +17,4 @@
 <h2>IssueBookDetails Page</h2>
 <img src="https://github.com/ArshadMujawar/Library-Management-System/assets/111220924/100fa32f-6940-4359-b8bb-e476744cbb31" >
 <h2>Library Management System Documentation</h2>
-<object
-type = "Library Management System Documentation "
-data="https://github.com/ArshadMujawar/Library-Management-System/files/13903995/ArshadLMSFinalDoc.pdf"
-width="500"
-></object>
+
